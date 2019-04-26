@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="azur">#9ed0d4d7</color>
+    <color name="azu1">#e7464646</color>
+    <color name="facebook">#375194</color>
+    <color name="twitter">#76A9EA</color>
+
+    <color name="call">#16B797</color>
+    <color name="white">#FFFFFF</color>
+    <color name="txtcolor">#c47226</color>
+</resources>

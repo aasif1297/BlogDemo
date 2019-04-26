@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_home"
+                android:title="Home"/>
+        <item
+                android:id="@+id/nav_add_blog"
+                android:title="Add Blog Post"/>
+        <item
+                android:id="@+id/nav_calender"
+                android:title="Calender"/>
+        <item
+                android:id="@+id/nav_about"
+                android:title="About"/>
+        <item
+                android:id="@+id/nav_contact_us"
+                android:title="Contact Us"/>
+        <item
+                android:id="@+id/nav_users"
+                android:title="Users"/>
+        <item
+                android:id="@+id/nav_chat"
+                android:title="Chat"/>
+
+        <item
+                android:id="@+id/nav_log_out"
+                android:title="Log Out"/>
+
+    </group>
+
+</menu>

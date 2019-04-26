@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="contact_us">Contact us</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="call">Call us</string>
+    <string name="title">Asif Ali</string>
+    <string name="discover">Discover</string>
+    <string name="description">Description entered by user</string>
+    <string name="edit_profile">EDIT YOUR PROFILE</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="welcome_title">Welcome To My World</string>
+    <string name="demo_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis purus a nisi eleifend
+        mollis volutpat et nunc. Maecenas sed congue augue. Praesent imperdiet rhoncus laoreet. Etiam semper nulla id
+        ante volutpat lacinia. Sed id porta nisi, eu ornare enim. Vestibulum bibendum enim tellus, eget sodales lectus
+        fringilla ac. Nulla commodo gravida nunc sed rutrum. Maecenas fermentum velit enim, eu sodales quam venenatis
+        at. Nullam dictum lorem ex. Suspendisse pharetra eget purus vitae dapibus.\n\nPraesent vel diam sit amet est
+        dignissim pharetra. In pulvinar lorem augue, et condimentum enim eleifend sit amet. In quis elit eget velit
+        commodo finibus. Curabitur id justo ac nunc porttitor scelerisque ac aliquet quam. Duis turpis urna, semper eu
+        feugiat ac, imperdiet ac enim. Aliquam libero magna, aliquet sit amet dolor eget, euismod condimentum libero.
+        Phasellus et arcu vitae orci congue laoreet molestie a velit. Nam rhoncus, ex ut bibendum gravida, dolor nisi
+        lobortis nisi, semper sollicitudin enim orci eu justo. Nunc commodo commodo lorem a consectetur. Maecenas
+        lacinia rhoncus nisl, nec maximus diam efficitur quis. Sed imperdiet facilisis sem, et bibendum enim ornare sed.
+        Maecenas a arcu vel massa sollicitudin fringilla. Maecenas feugiat aliquet egestas. Proin in finibus erat, ut
+        dapibus metus. Pellentesque pulvinar justo at vulputate sollicitudin.\n\nNulla auctor, tortor non interdum
+        mattis, lorem felis bibendum mi, ac scelerisque dolor erat nec lectus. Maecenas lacinia imperdiet leo, et dictum
+        ante pharetra in. Sed tincidunt iaculis nisl non efficitur. Donec tincidunt metus et mollis consequat. Ut congue
+        consectetur odio a molestie. Suspendisse potenti. Quisque eget iaculis sapien. Nullam feugiat volutpat
+        condimentum. Duis in turpis ornare, mollis tortor in, tincidunt ex. In a mauris tellus. Fusce posuere in enim ut
+        tempus.\n\nEtiam maximus, purus sit amet convallis maximus, purus urna cursus dui, nec mattis velit magna sit
+        amet lacus. Vestibulum gravida, eros porttitor scelerisque semper, est arcu rhoncus est, quis ultrices sem ipsum
+        nec neque. Vivamus efficitur diam a est consectetur aliquam. Vestibulum ut libero eros. Duis est justo, porta
+        eget ornare sed, gravida eu enim. Integer nec nisl a massa dignissim accumsan. Nam placerat ullamcorper augue id
+        congue. Fusce suscipit rhoncus libero, non lacinia dui varius nec. Sed sagittis, sapien id commodo dapibus, leo
+        risus ornare dui, sit amet eleifend urna turpis tincidunt nibh. Aliquam tristique erat nec arcu aliquam, sed
+        mattis magna placerat. Pellentesque facilisis ipsum a urna condimentum, nec placerat nulla fermentum.\n\nCras
+        massa nibh, accumsan vel mollis sed, laoreet blandit felis. Maecenas porttitor, orci vel ornare suscipit, lorem
+        felis consectetur lorem, at gravida turpis est eu magna. Integer laoreet odio et ipsum consectetur dignissim.
+        Interdum et malesuada fames ac ante ipsum primis in faucibus. In in commodo magna. Aenean vestibulum libero
+        maximus nisi iaculis, maximus lacinia felis lobortis. Nullam vel dolor tortor.
+    </string>
+</resources>
