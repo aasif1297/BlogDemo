@@ -1,5 +1,8 @@
 package com.celeritassolutions.demo.activities
 
+import com.microsoft.appcenter.AppCenter;
+import com.microsoft.appcenter.analytics.Analytics;
+import com.microsoft.appcenter.crashes.Crashes;
 import android.content.Intent
 import android.graphics.Typeface
 import android.os.Bundle
@@ -18,6 +21,12 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.app_bar_main.*
+import android.support.v4.app.SupportActivity
+import android.support.v4.app.SupportActivity.ExtraData
+import android.support.v4.content.ContextCompat.getSystemService
+import android.icu.lang.UCharacter.GraphemeClusterBreak.T
+
+
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
@@ -30,6 +39,10 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        AppCenter.start(
+            application, "ef7ed422-2ee4-43d9-9a88-2a0f0baa66d1",
+            Analytics::class.java, Crashes::class.java
+        )
         //setSupportActionBar(toolbar)
         tool = findViewById(R.id.toolbar)
         toggle = ActionBarDrawerToggle(this, drawer_layout, null,
